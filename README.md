@@ -5,11 +5,6 @@
 
 ## Reading Number Plates
 
-Images and annotations taken from - https://dataturks.com/projects/devika.mishra/Indian_Number_plates
-
-Annotations include bounding boxes for each image and have the same name as the image name. You can find the example to train a model in python, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
-
-
 ** **
 
 # Build a Number Plate Recognition Model
